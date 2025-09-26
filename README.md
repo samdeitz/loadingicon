@@ -7,7 +7,7 @@ Smooth loading icon created using Java Swing for a High School project. Created 
 # 🙉 See the Project
 
 ### Windows Only
-1. Download the latest release: [LoadingIcon.zip](https://github.com/samdeitz/loadingicon/LoadingIcon)
+1. Download the latest release: [LoadingIcon.zip](https://github.com/samdeitz/loadingicon/LoadingIcon.zip)
 2. Extract (unzip) the folder.
 3. Open the folder and double-click **LoadingIcon.exe** to start playing.
 ---
